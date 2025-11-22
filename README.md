@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm MisterG</h1>
 <h3 align="center">A passionate future developer from Spain</h3>
 
@@ -7,13 +5,13 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👯 I’m looking to collaborate on [MediaFlow](https://github.com/pointedsec/MediaFlow)
+- 👯 I’m looking to collaborate on [MediaFlow](https://github.com/pointedsec/MediaFlow) or any @pointedsec proyects.
 
 - 🤝 I’m looking for help with [DAWProgrammingExercises](https://github.com/MisterGdev/DAWProgrammingExercises.git)
 
 - 📫 How to reach me **misterg@parguelassinfronteras.com**
 
-- ⚡ Fun fact **Mido 1,65 y aparento tener 16 años (sin barba)**
+- ⚡ Fun fact **Without my beard, i look like a teenager**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
